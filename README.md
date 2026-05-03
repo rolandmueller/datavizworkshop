@@ -33,7 +33,7 @@ https://code.visualstudio.com/download
 ##  Step 5: Open Terminal and install uv
 
 - in Menu: Terminal | New Terminal
-- Copy and paste this command into the terminal and execute it (hit return key) (if you are on a Mac. If you are on Windows, go to https://docs.astral.sh/uv/getting-started/installation for installation instructions):
+- If you are on a Mac: Copy and paste this command into the terminal and execute it (hit return key) (If you are on Windows, go to https://docs.astral.sh/uv/getting-started/installation for installation instructions of uv):
 
 ```bash
 curl -LsSf https://astral.sh/uv/install.sh | sh
