@@ -41,7 +41,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 
 ## Step 6: Install Python and Python packages with uv
 
-Copy and paste this command into the terminal one by one and execute it (hit the return key)
+Copy and paste these commands into the terminal one by one and execute them (hit the return key)
 ```bash
 uv init --python 3.12
 ```
