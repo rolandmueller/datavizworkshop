@@ -24,7 +24,7 @@ https://code.visualstudio.com/download
 #### If you have an Anthropic Claude Code Pro account, install the extension
 - Claude Code for VS Code
 
-## Step 4. Create and open a new folder in VS Code
+## Step 4. Create and open a new project folder in VS Code
 - in Menu: Open | Open Folder..,
 - Navigate to where you want to create a new folder 
 - Click the New Folder button and name it, e.g. TUMdataviz
