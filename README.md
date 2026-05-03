@@ -48,7 +48,7 @@ uv init --python 3.12
 ```
 
 ```bash
-uv add jupyter matplotlib seaborn pandas scipy pingouin statsmodels openpyxl
+uv add jupyter matplotlib seaborn pandas scipy pingouin statsmodels openpyxl statannotations
 ```
 
 ```bash
