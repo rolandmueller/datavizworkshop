@@ -10,33 +10,52 @@ https://code.visualstudio.com/download
 
 ## Step 3. Configure VS Code
 
-### Open the Extension tab on the left (⇧⌘X)
+### Open the Extension tab on the left. In the Menu: View | Extensions (Shortcut ⇧⌘X)
    
 ### Search for and install the following extensions
 
 - Python
-- Juypter
+- Jupyter
 - Github Copilot Chat
 
-#### If you have a ChatGPT Plus account
+#### If you have a ChatGPT Plus account, install the extension
 - Codex - OpenAI's coding agent
 
-#### If you have Anthropic Claude Code Pro account
+#### If you have an Anthropic Claude Code Pro account, install the extension
 - Claude Code for VS Code
 
-## Step 4. Create and Open a new folder in VS Code
+## Step 4. Create and open a new folder in VS Code
 - in Menu: Open | Open Folder..,
-- Nevigate where you want to create a new folder 
-- Click New Folder button and name it e.g. TUMdataviz
+- Navigate to where you want to create a new folder 
+- Click the New Folder button and name it, e.g. TUMdataviz
 - Click Open
 
-# Step 5: Open Terminal and install uv
+##  Step 5: Open Terminal and install uv
 
 - in Menu: Terminal | New Terminal
-- Copy and past this command into the terminal (if you are on a Mac. If you are on Windows, go to https://docs.astral.sh/uv/getting-started/installation):
+- Copy and paste this command into the terminal and execute it (hit return key) (if you are on a Mac. If you are on Windows, go to https://docs.astral.sh/uv/getting-started/installation for installation instructions):
 
 ```bash
 curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+## Step 6: Install Python and Python packages with uv
+
+Copy and paste this command into the terminal one by one and execute it (hit the return key)
+```bash
+uv init --python 3.12
+```
+
+```bash
+uv add jupyter matplotlib seaborn pandas scipy pingouin statsmodels
+```
+
+```bash
+uv add jupyter matplotlib seaborn pandas scipy pingouin statsmodels openpyxl
+```
+
+```bash
+uv sync
 ```
 
 ## Step 4 Register at Github.com (skip if you already have a Github account)
