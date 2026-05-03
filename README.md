@@ -18,6 +18,7 @@ https://code.visualstudio.com/download
 - Jupyter
 - Github Copilot Chat
 
+You can get GitHub Copilot for free through an education application (later in Step 8). However, if you have a ChatGPT Plus or an Anthropic Claude Code Pro account, you can also (alternatively) use them (optional):
 #### If you have a ChatGPT Plus account, install the extension
 - Codex - OpenAI's coding agent
 
@@ -54,15 +55,15 @@ uv add jupyter matplotlib seaborn pandas scipy pingouin statsmodels openpyxl
 uv sync
 ```
 
-## Step 4 Register at Github.com (skip if you already have a Github account)
+## Step 7: Register at Github.com (skip if you already have a Github account)
 
 https://github.com/signup
 
-## Step 5. Apply for Education Benefits at Github
+## Step 8: Apply for Education Benefits at Github
 
 https://github.com/settings/education/benefits 
 
-## Step 6. Activate Github Copilot
+## Step 9: Activate Github Copilot
 
 https://github.com/settings/copilot/features
 
