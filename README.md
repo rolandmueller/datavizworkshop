@@ -1,4 +1,4 @@
-# TUM Dataviz Workshop
+# IPD Dataviz Workshop
 
 Please follow these steps for installing the necessary software before the workshop
 
