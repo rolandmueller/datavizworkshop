@@ -28,7 +28,7 @@ You can get GitHub Copilot for free through an education application (later in S
 ## Step 4. Create and open a new project folder in VS Code
 - in Menu: Open | Open Folder..,
 - Navigate to where you want to create a new folder 
-- Click the New Folder button and name it, e.g. TUMdataviz
+- Click the New Folder button and name it, e.g. ipd_dataviz
 - Click Open
 
 ##  Step 5: Open Terminal and install uv
