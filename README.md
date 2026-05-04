@@ -63,6 +63,8 @@ https://github.com/signup
 
 https://github.com/settings/education/benefits 
 
+This may take a couple of days for approval. After you get the approval, go to Step 9. 
+
 ## Step 9: Activate Github Copilot
 
 https://github.com/settings/copilot/features
